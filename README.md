@@ -15,7 +15,7 @@ A lightweight Automatic Reference Counting (ARC) memory management system for C,
 Clone the repository and build using make:
 
 ```bash
-git clone https://github.com/yourusername/trove.git
+git clone https://github.com/wess/trove.git
 cd trove
 make
 ```
